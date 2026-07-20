@@ -1,4 +1,4 @@
-If your goal is to build a project that can genuinely impress recruiters, don't think of it as "building a banking app." Think of it as building software the way a company would. Start with a modular monolith (clean architecture) and, once it's complete, migrate it to microservices. This gives you two strong talking points in interviews.
+ 
 
 # Project Roadmap (12 Stages)
 
@@ -861,4 +861,4 @@ Add:
 | 11–12 | Redis, Kafka, scheduled jobs, performance improvements         |
 | 13+   | Refactor into microservices                                    |
 
-This roadmap mirrors how enterprise banking software is typically developed: establish a secure, maintainable monolith first, then evolve it into a distributed system once the business logic is mature. That progression also gives you a compelling story to tell during interviews about architecture, trade-offs, and scalability.
+
