@@ -861,4 +861,4 @@ Add:
 | 11–12 | Redis, Kafka, scheduled jobs, performance improvements         |
 | 13+   | Refactor into microservices                                    |
 
-
+This is the implementation plan of the Banking System , from scratch to full stack web application .
