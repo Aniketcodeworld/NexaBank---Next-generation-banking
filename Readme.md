@@ -862,3 +862,4 @@ Add:
 | 13+   | Refactor into microservices                                    |
 
 This is the implementation plan of the Banking System , from scratch to full stack web application .
+Starting with (backend + DB)  then (Frontend integration) with Cross Origin Resource Sharing 
